@@ -1,1 +1,1 @@
-Mini operations
+Minimum operationins with Python
